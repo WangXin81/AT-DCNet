@@ -1,7 +1,7 @@
 # AT-DCNet
 
-# Data preparation:
-
+## Data preparation:
+```
 train 
   --A 
   --B
@@ -14,21 +14,20 @@ test
   --A 
   --B
   --label  
-
-# FIGS        
+```
+## FIGS        
 
 ![图3.2.1](C:\Users\11139\Desktop\图3.2.1.png)
 
-# Datasets
+## Datasets
 
 LEVIR-CD:
-
-https://justchenhao.github.io/LEVIR/ 
+[https://justchenhao.github.io/LEVIR/]
 
 CDD:
-https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9
+[https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9]
 
-# Environments
+## Environments
 
 1.CUDA  11.8
 
