@@ -17,7 +17,7 @@ test
 ```
 ## FIGS        
 
-![图3.2.1](C:\Users\11139\Desktop\图3.2.1.png)
+![image](https://github.com/WangXin81/AT-DCNet/tree/main/figs/fig1.jpg)
 
 ## Datasets
 
