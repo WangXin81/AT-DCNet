@@ -17,8 +17,7 @@ test
 ```
 ## FIGS        
 
-![image](https://github.com/WangXin81/AT-DCNet/tree/main/figs/fig1.jpg)
-
+![image](/figs/fig1.jpg)
 ## Datasets
 
 LEVIR-CD:
